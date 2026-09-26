@@ -1,0 +1,14 @@
+The provided sequence excerpt is an acidic, 78.8 kDa bacterial phosphoglucosamine mutase from Vibrio alfacsensis.
+Sequence Parameters & Properties
+ * Accession: A0ABN5PJB1 (UniProtKB)
+ * Enzyme Class: EC 5.4.2.10 (Phosphoglucosamine mutase / GlmM)
+ * Isoelectric Point: 5.36 (predicts net negative charge under neutral pH conditions)
+ * Mass: 78,790.84 Da (Average) / 78,740.71 Da (Monoisotopic)
+ * Biological Function: Catalyzes the reversible isomerization of glucosamine 1-phosphate to glucosamine 6-phosphate, an essential step in bacterial peptidoglycan and cell wall biosynthesis.
+Partial Sequence Breakdown (N-Terminal Fragment)
+MIIKANNKSL DLSRPHVMAI LNVTPDSFSD GGKYNSLNSA LLQAEKMINA GVSIIDIGGE
+STRPGAPDVE LEEELQRVIP VIKAIREKYD VWISIDTSKA EVMRQAIEAG VDIINDVRAL
+QEPGALAVAA KANLPICLMH MKGQPRTMQA NPQYDD
+
+ * Fragment Residues: 156 of 729 aa provided.
+ * Met/Cys Content in Fragment: 6 Met (M), 1 Cys (C) at residue position 139 (PICLMHM).
